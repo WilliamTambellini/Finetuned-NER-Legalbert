@@ -1,0 +1,8 @@
+streamlit
+transformers 
+datasets 
+tokenizers 
+seqeval
+torch
+accelerate
+transformers[torch]
